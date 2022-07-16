@@ -1,5 +1,5 @@
 const app_config = {
-	api_url: 'https://homeathospital.herokuapp.com',
+	api_url: 'https://home-hospital-backend.herokuapp.com',
     projectTitle: 'Home Hospital',
     equipmentCategories: [
         'Health Monitoring',
