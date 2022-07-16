@@ -8,7 +8,7 @@ const Home = () => {
                 <div className="container d-flex justify-content-between">
                     <div className="contact-info d-flex align-items-center">
                         <i className="bi bi-envelope"></i> <a href="mailto:contact@example.com">homehospital@gmail.com</a>
-                        <i className="bi bi-phone"></i> +91 9839426001
+                        <i className="bi bi-phone"></i> +91 8879037873
           </div>
                     <div className="d-none d-lg-flex social-links align-items-center">
                         {/* <a href="#" className="twitter"><i className="bi bi-twitter"></i></a> */}
@@ -416,7 +416,7 @@ Our sales staff can also process other payment types manually, including checks 
                     </div>
 
                     <div>
-                        <iframe style={{ border: '0', width: '100%', height: '350px' }} src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14264.200484140358!2d83.58775757579052!3d26.6468776305389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1621525596951!5m2!1sen!2sin" frameBorder="0" allowFullScreen></iframe>
+                        <iframe style={{ border: '0', width: '100%', height: '350px' }} src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7536.2164964782205!2d72.97420669376028!3d19.1904738168514!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b92443e3f67b%3A0x2d03ef1250e74f5b!2sJambli%20Naka%2C%20Thane%20West%2C%20Thane%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1656500707291!5m2!1sen!2sin" frameBorder="0" allowFullScreen></iframe>
                     </div>
 
                     <div className="container">
@@ -427,7 +427,7 @@ Our sales staff can also process other payment types manually, including checks 
                                     <div className="address">
                                         <i className="bi bi-geo-alt"></i>
                                         <h4>Location:</h4>
-                                        <p>Chauri Chaura Gorakhpur UP 273201 India</p>
+                                        <p>Jhambli Naka Thane Maharashtra 421205 India</p>
                                     </div>
 
                                     <div className="email">
@@ -439,7 +439,7 @@ Our sales staff can also process other payment types manually, including checks 
                                     <div className="phone">
                                         <i className="bi bi-phone"></i>
                                         <h4>Call:</h4>
-                                        <p>+91 9839426001</p>
+                                        <p>+91 8879037873</p>
                                     </div>
 
                                 </div>
@@ -468,10 +468,10 @@ Our sales staff can also process other payment types manually, including checks 
                             <div className="col-lg-3 col-md-6 footer-contact">
                                 <h3>HomeHospital</h3>
                                 <p>
-                                    Chauri Chaura <br />
-                  Gorakhpur, UP 273201<br />
+                                    Jhambli Naka <br />
+                  Thane, Maharashtra 421205<br />
                   India <br /><br />
-                                    <strong>Phone:</strong> +91 9839426001<br />
+                                    <strong>Phone:</strong> +91 8879037873<br />
                                     <strong>Email:</strong> homehospital@gmail.com<br />
                                 </p>
                             </div>
@@ -507,7 +507,7 @@ Our sales staff can also process other payment types manually, including checks 
                             &copy; Copyright <strong><span>HomeHospital</span></strong>. All Rights Reserved
             </div>
                         <div className="credits">
-                            Designed by <a href="https://bootstrapmade.com/">Khan's Team</a>
+                            Designed by <a href="https://bootstrapmade.com/">Jai's Team</a>
                         </div>
                     </div>
                     <div className="social-links text-center text-md-right pt-3 pt-md-0">
